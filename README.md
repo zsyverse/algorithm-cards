@@ -8,9 +8,9 @@
 
 *Turn the core algorithms of LeetCode Hot 100 & the classic study roadmap into one-card-per-pattern infographics + ready-to-present slides.*
 
-[![Stars](https://img.shields.io/github/stars/zsy00701/algorithm-cards?style=social)](https://github.com/zsy00701/algorithm-cards/stargazers)
-[![License](https://img.shields.io/github/license/zsy00701/algorithm-cards?color=1769D2)](LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/zsy00701/algorithm-cards?color=2D95E8)](https://github.com/zsy00701/algorithm-cards/commits)
+[![Stars](https://img.shields.io/github/stars/zsyverse/algorithm-cards?style=social)](https://github.com/zsyverse/algorithm-cards/stargazers)
+[![License](https://img.shields.io/github/license/zsyverse/algorithm-cards?color=1769D2)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/zsyverse/algorithm-cards?color=2D95E8)](https://github.com/zsyverse/algorithm-cards/commits)
 ![cards](https://img.shields.io/badge/卡片-54_张-1769D2)
 ![sets](https://img.shields.io/badge/方法卡-2套-0B2E6D)
 ![lang](https://img.shields.io/badge/代码-C++_/_Python-2D95E8)
@@ -57,21 +57,21 @@
 
 ## 📥 成品下载（PPT）
 
-> PPT 成品统一放在 [**Releases**](https://github.com/zsy00701/algorithm-cards/releases/latest)，点下方链接直接下载。
+> PPT 成品统一放在 [**Releases**](https://github.com/zsyverse/algorithm-cards/releases/latest)，点下方链接直接下载。
 
 **力扣 Hot 100（18 讲）**
 
 | 成品 | 说明 |
 |------|------|
-| [hot100-method-cards.pptx](https://github.com/zsy00701/algorithm-cards/releases/download/v1.0/hot100-method-cards.pptx) | 18 张方法卡，GPT-Image-2 信息图 |
-| [hot100-overview.pptx](https://github.com/zsy00701/algorithm-cards/releases/download/v1.0/hot100-overview.pptx) | 题型分类总览，建立全局认知 |
+| [hot100-method-cards.pptx](https://github.com/zsyverse/algorithm-cards/releases/download/v1.0/hot100-method-cards.pptx) | 18 张方法卡，GPT-Image-2 信息图 |
+| [hot100-overview.pptx](https://github.com/zsyverse/algorithm-cards/releases/download/v1.0/hot100-overview.pptx) | 题型分类总览，建立全局认知 |
 
 **代码随想录路线（36 讲）**
 
 | 成品 | 说明 |
 |------|------|
-| ⭐ [carl-cards-ordered.pptx](https://github.com/zsy00701/algorithm-cards/releases/download/v1.0/carl-cards-ordered.pptx) | 按学习路线顺序排列 —— **系统刷题首选** |
-| [carl-method-cards.pptx](https://github.com/zsy00701/algorithm-cards/releases/download/v1.0/carl-method-cards.pptx) | 36 张方法卡，GPT-Image-2 信息图 |
+| ⭐ [carl-cards-ordered.pptx](https://github.com/zsyverse/algorithm-cards/releases/download/v1.0/carl-cards-ordered.pptx) | 按学习路线顺序排列 —— **系统刷题首选** |
+| [carl-method-cards.pptx](https://github.com/zsyverse/algorithm-cards/releases/download/v1.0/carl-method-cards.pptx) | 36 张方法卡，GPT-Image-2 信息图 |
 
 ---
 
@@ -104,7 +104,7 @@ algorithm/
 └── scripts/               # 配套工具脚本（打包 PPT / 总览图 / 横幅）
 ```
 
-> 📦 PPT 成品改放 [GitHub Releases](https://github.com/zsy00701/algorithm-cards/releases/latest)；本地运行脚本会生成到 `algorithm/ppt_output/`。
+> 📦 PPT 成品改放 [GitHub Releases](https://github.com/zsyverse/algorithm-cards/releases/latest)；本地运行脚本会生成到 `algorithm/ppt_output/`。
 
 ---
 
